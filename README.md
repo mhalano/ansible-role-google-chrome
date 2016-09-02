@@ -13,7 +13,6 @@ Role Variables
 
 channel: [ stable, beta, unstable ] - Defines waht versions will be installed.
 
-
 Dependencies
 ------------
 
