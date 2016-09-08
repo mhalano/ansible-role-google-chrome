@@ -11,7 +11,7 @@ No requeriments.
 Role Variables
 --------------
 
-channel: [ stable, beta, unstable ] - Defines waht versions will be installed.
+google-chrome_channel: [ stable, beta, unstable ] - Defines waht versions will be installed.
 
 Dependencies
 ------------

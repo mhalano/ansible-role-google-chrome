@@ -2,4 +2,4 @@
 # defaults file for google-chrome
 
 # define if will be installed the chrome stable, chrome beta or chrome unstable. Can be a list with more than one option.
-channel: stable
+google-chrome_channel: stable

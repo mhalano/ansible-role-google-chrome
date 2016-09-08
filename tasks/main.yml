@@ -14,4 +14,4 @@
   apt:
     name: google-chrome-{{ item }}
     state: latest
-  with_items: "{{ channel }}"
+  with_items: "{{ google-chrome_channel }}"
